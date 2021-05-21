@@ -1,2 +1,2 @@
 # contract
-ERC-20
+ERC20 token smart contract
